@@ -1,0 +1,7 @@
+c:\users\mu12\documents\visual studio 2013\Projects\Fast NoSQL LocalDB\Fast NoSQL LocalDB\bin\Debug\Fast NoSQL LocalDB.exe
+c:\users\mu12\documents\visual studio 2013\Projects\Fast NoSQL LocalDB\Fast NoSQL LocalDB\bin\Debug\Fast NoSQL LocalDB.pdb
+c:\users\mu12\documents\visual studio 2013\Projects\Fast NoSQL LocalDB\Fast NoSQL LocalDB\bin\Debug\LiteDB.dll
+c:\users\mu12\documents\visual studio 2013\Projects\Fast NoSQL LocalDB\Fast NoSQL LocalDB\obj\Debug\Fast NoSQL LocalDB.csprojResolveAssemblyReference.cache
+c:\users\mu12\documents\visual studio 2013\Projects\Fast NoSQL LocalDB\Fast NoSQL LocalDB\obj\Debug\Fast NoSQL LocalDB.exe
+c:\users\mu12\documents\visual studio 2013\Projects\Fast NoSQL LocalDB\Fast NoSQL LocalDB\obj\Debug\Fast NoSQL LocalDB.pdb
+c:\users\mu12\documents\visual studio 2013\Projects\Fast NoSQL LocalDB\Fast NoSQL LocalDB\bin\Debug\Fast NoSQL LocalDB.exe.config
